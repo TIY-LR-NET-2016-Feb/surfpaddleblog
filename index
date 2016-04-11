@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="surfstyle.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+  <row class="title">
+    <div class="col-md-4 col-offset-2"></div>
+    <title>Surf & Paddle</title>
+
+
+</head>
+</row>
+
+<body>
+  <div class="jumbotron">
+    <div class="container center">
+      <h1>SURF & PADDLE CO.</h1>
+      <h5>An Ironyard Academy Project Est Fall 2013</h5>
+
+    </div>
+  </div>
+  <div class="container wrapper">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-2">
+        <h2 class="title">A FANTASTIC ENGAGING</h2> 
+        <h2 class="title">HEADLINE GOES HERE</h2>
+        <img class="smallround img-circle" src="http://i.imgur.com/hSN7cb0.png">
+         <p> <font color=" #336699">Bodhi Sattva</font> - March 29, 1985</p>
+      </div>
+      <div class="col-md-3 center">
+        <img class="round img-circle" src="http://i.imgur.com/hSN7cb0.png">
+        <br>
+        <div class="group">
+          <h4 class="title">Bodhi Sattva</h4>
+          <p>Twitter Facebook Instagram</p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-6 col-md-offset-2 body">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <br>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h2>| WHOA, THAT'S RADICAL!</h2>
+      </div>
+      <div class="col-md-2">
+        <img src="http://i.imgur.com/0Zzkb0m.png">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-md-offset-2">
+        <p class="body">
+          So lets make the most of this beautiful day. Since we're together And when the odds are against him and their dangers work to do. You bet your life Speed Racer he will see it through? In 1972 a crack commando unit was sent to prison by a military court
+          for a crime they didn't commit. These men promptly escaped from a maximum security stockade to the Los Angeles underground. They're creepy and they're kooky mysterious and spooky. They're all together ooky the Addams Family., "Till the one day
+          when the lady met this fellow and they knew it was much more than a hunch." We're gonna do it. On your mark get set and go now.
+        </p>
+
+        <p class="body">
+          The movie star the professor and Mary Ann here on Gilligans Isle. So get a witch's shawl on a broomstick you can crawl on. Were gonna pay a call on the Addams Family! And if you threw a party - invited everyone you knew. 
+
+        </p>
+        <button class="button">Read Comments</button>
+        <button class="button">Read Later</button>
+        <button class="button">Share Post</button>
+      </div>
+      <div class="div col-md-4">
+        <br>
+        <br>
+        <h5 class="title">SIDEBAR SECTION HEADING</h5>
+        <p class="body ">Here he comes Here comes Speed Racer. He's a demon on wheels. As long as we live its you and me baby. There ain't nothin' wrong with that. The first mate and his Skipper too will do their very best to make the others comfortable in their tropic
+          island nest. They call him Flipper Flipper faster than lightning.</p>
+      </div>
+    </div>
+  </div>
+  <br>
+    <br>
+    <hr>
+    <br>
+  <div class="row">
+    <h1 class="col-md-8 col-md-offset-4"> <font color=" #336699">MORE POPULAR POSTS</font></h1>
+  </div>
+  <div class="row">
+   
+    <div class="col-md-3 morph pic">
+      <img class= "posts" src = "http://www.timessquarenyc.org/image.aspx?orig=events/new-years-eve/about-the-new-years-eve-ball/history-of-the-new-years-eve-ball/image.aspx&id=4240&width=400&height=400">
+    </div>
+    <div class="col-md-3 morph pic">
+      <img class= "posts" src = "http://www.burohappold.com/fileadmin/_processed_/csm_1_Angel_Square_lighting_af0f423759.jpg">
+    </div>
+    <div class="col-md-3 morph pic">
+      <img class= "posts" src = "http://www.fancy.org.za/wp-content/uploads/2013/08/A01.JPG_SQUARE.jpg">
+    </div>
+    <div class="col-md-3 morph pic">
+      <img class= "posts" src = "http://d1k0pk41fv5epv.cloudfront.net/wp-content/uploads/2015/08/UK-square-400x400.jpg">
+    </div>
+
+  </div>
+  <container>
+  <div class= "foot">
+  <footer >
+    <p class="pull-right">First | Prev. | Next | Last</p></footer>
+    <p center="center"> C# BEE Inc Copyright 2016, All Right Reserved</p>
+    <p><img class = "smaller" src = "http://2.gravatar.com/avatar/2cbe8872c9c4dfe423491297f4a14546?s=200&d=identicon&r=G"></p>
+    
+  </div>
+  </container>
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  
+</body>
+
+</html>
